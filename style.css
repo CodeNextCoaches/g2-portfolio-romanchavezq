@@ -1,3 +1,9 @@
+
+#grad {
+  background: linear-gradient(lightblue,yellow);
+}
+
+
 nav ul {
   list-style-type: none;
 }
@@ -15,7 +21,22 @@ span {
 }
 
 p {
-  background-color: #bcf4f0;
-  margin: 0 auto;
-  width: 75%;
+  background-color: white;
+  margin: 0;
+  width: 50%;
+  text-align: left;
 }
+ h1 {
+   text-align: center;
+   border: 2px;
+   margin: 0 20px;
+   padding: 4px;
+ }
+ .Roman{
+  height: 130px;
+}
+ .Roman img{
+   float: right;
+   width: 50%;
+   height: 600px;
+ }
